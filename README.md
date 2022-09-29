@@ -2,6 +2,10 @@
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
+<h3 align="center">
+<img src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
+</h3>
+
 1) Gave it the permission 755 or 777 ~
 2) Run the Script ./ Logo+Name+Timer.sh
 3) Change the logo.png by your own logo with the same name "logo"
