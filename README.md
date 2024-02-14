@@ -34,7 +34,7 @@ Next= x=w-tw-20:y=h-th-20
 ## Position Notice How to change:
 
 - > Top left: ```x=0 : y=0``` (with 10 pixel padding ```x=l0 : y=lO```)
-- > Top center: ```x= (w - text_ w) /2 : y=0``` (with 10 px padding ```x= (w - text_w) /2 : y=lO```)
+- > Top center: ```x= (w - text_w) /2 : y=0``` (with 10 px padding ```x= (w - text_w) /2 : y=lO```)
 - > Top right: ```x=w- tw : y=0``` (with l0 px padding: ```x=w-tw- 10 : y=lO```)
 - > Cen~red: ```x= (w - text_w)/2 : y= (h - text_h)/2```
 - > Bottom left: ```x=0 : y=h``` -th (with 10 px padding: ```x=l0 : y=h- th - 10```)
